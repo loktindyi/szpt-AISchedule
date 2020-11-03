@@ -1,0 +1,1 @@
+# szpt-AISchedule
